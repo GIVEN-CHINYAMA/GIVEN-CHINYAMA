@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Given Chinyama 👋</h1>
-<h3 align="center">Data Science Student | Kwame Nkrumah University | Zambia 🇿🇲</h3>
+<h3 align="center">Master of Science in Mathematics Edu Student | Kwame Nkrumah University | Zambia 🇿🇲</h3>
 
 <p align="center">
   <a href="https://github.com/GIVEN-CHINYAMA">
