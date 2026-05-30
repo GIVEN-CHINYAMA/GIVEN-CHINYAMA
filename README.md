@@ -16,7 +16,7 @@
 - 🌍 Focused on solving **real African and Zambian problems** with data
 - 🔍 Actively looking for **Data Science internships and graduate opportunities**
 - 🚀 All my projects are built end-to-end — from raw data to final forecast
-- 📫 Reach me at: **[your email here]**
+- 📫 Reach me at: **givenchinyama@gmail.com**
 
 ---
 
