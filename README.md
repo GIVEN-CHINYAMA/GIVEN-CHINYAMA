@@ -42,28 +42,43 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-### ⛽ [Zambia Fuel Price Forecasting](https://github.com/GIVEN-CHINYAMA/zambia_fuel_price_forecasting)
-> Forecasting Zambian petrol and diesel prices using ARIMA, SARIMA, Holt-Winters, and Prophet on real ERB data (2015–2024).
-- 🏆 **Prophet** achieved the best results — MAPE of **9.54%** and R² of **0.71**
-- 📅 Generated a full **12-month forecast** for 2025
-- 🇿🇲 Original dataset manually curated from official ERB Zambia sources
+### 📊 [Zambia Inflation Forecasting App](https://github.com/GIVEN-CHINYAMA/zambia-inflation-forecasting-app)
+> Interactive Streamlit dashboard forecasting Zambia's annual inflation using real World Bank & Yahoo Finance data.
+- 🤖 **4 models benchmarked** — ARIMAX, XGBoost, Facebook Prophet, and LSTM
+- 🏆 **ARIMAX** achieved the best results — RMSE: 5.65, MAE: 4.18, MAPE: 23.68%
+- 🔭 Generates a **3-year forward forecast (2025–2027)** with 95% confidence intervals
+- 📡 Real-time data integration from **World Bank API** and **Yahoo Finance**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GIVEN-CHINYAMA/zambia_fuel_price_forecasting/blob/main/zambia_fuel_price_forecasting.ipynb)
+[![Open App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://zambia-inflation-forecasting.streamlit.app/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GIVEN-CHINYAMA/zambia-inflation-forecasting/blob/main/zambia_inflation_forecasting.ipynb)
 
 ---
 
-### ⚡ [Electricity Demand Forecasting](https://github.com/GIVEN-CHINYAMA/electricity-demand-forecasting)
-> Forecasting daily electricity demand using 5,057 observations from the AEP grid (2004–2018) across 11 pipeline stages.
-- 🏆 **LSTM** achieved **96.1% forecast accuracy** — best on all metrics (RMSE: 736 MW, R²: 0.84)
-- 🧠 Compared ARIMA, SARIMA, Prophet, and LSTM neural network
-- 📊 23 professional charts generated across the full pipeline
+### 🛒 [Zambia National Retail Intelligence Platform](https://github.com/GIVEN-CHINYAMA/zambia-retail-dashboard-app)
+> Full-stack retail analytics dashboard covering 7 Zambian cities, 8 store chains, and 21 products across 2022–2024.
+- 📈 **6-page interactive dashboard** — Executive KPIs, EDA, Forecasting, Customer Segments, Risk Detection, Data Explorer
+- 🧠 **RFM K-Means clustering** segments 5,000 customers into Champions, At-Risk, New, and Loyal groups
+- 🚨 **Z-score anomaly detection** flags unusual demand spikes and stockout risks in real time
+- 🤖 **XGBoost & ARIMA** demand forecasting with MAE, RMSE, R², and MAPE benchmarking
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GIVEN-CHINYAMA/electricity-demand-forecasting/blob/main/electricity_demand_forecasting.ipynb)
+[![Open App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://github.com/GIVEN-CHINYAMA/zambia-retail-dashboard-app)
+
+---
+
+### 📦 [Retail Demand Forecasting & Inventory Optimization](https://github.com/GIVEN-CHINYAMA/retail-demand-forecasting-inventory-optimization)
+> End-to-end demand forecasting system across 20 SKUs with EOQ-based inventory optimization.
+- 🤖 **5 models** — Auto-SARIMA, Prophet, XGBoost, LightGBM, and Weighted Ensemble
+- 🏆 **Ensemble model** outperforms all individual models — median MAPE < 15% across all SKUs
+- 📦 **EOQ, Safety Stock & Reorder Point** computed per SKU — reduces estimated inventory cost by 15–25%
+- 🎯 95% service level target — eliminates ~85% of stockout risk
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GIVEN-CHINYAMA/retail-demand-forecasting-inventory-optimization/blob/main/Retail_Demand_Forecasting_%26_Inventory_Optimization_System_%E2%80%94_ML_%2B_Time_Series_Analytics.ipynb)
 
 ---
 
@@ -82,7 +97,7 @@
   <a href="https://github.com/GIVEN-CHINYAMA">
     <img src="https://img.shields.io/badge/GitHub-GIVEN--CHINYAMA-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:givenchinyama@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
