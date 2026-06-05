@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Given Chinyama 👋</h1>
-<h3 align="center">Master of Science in Mathematics Edu Student | Kwame Nkrumah University | Zambia 🇿🇲</h3>
+<h3 align="center">MSc Mathematics Student | Data Scientist | Kwame Nkrumah University, Zambia 🇿🇲</h3>
 
 <p align="center">
   <a href="https://github.com/GIVEN-CHINYAMA">
@@ -13,9 +13,9 @@
 
 - 🎓 Currently studying at **Kwame Nkrumah University**, Zambia
 - 📊 Passionate about **Data Science, Machine Learning, and Time Series Forecasting**
-- 🌍 Focused on solving **real African and Zambian problems** with data
+- 🌍 Building original datasets and models for **real African and Zambian economic problems** — fuel prices, inflation, exchange rates, electricity demand
 - 🔍 Actively looking for **Data Science internships and graduate opportunities**
-- 🚀 All my projects are built end-to-end — from raw data to final forecast
+- 🚀 All my projects are built end-to-end — from raw data collection to deployed app
 - 📫 Reach me at: **givenchinyama@gmail.com**
 
 ---
@@ -36,6 +36,8 @@
 ![Prophet](https://img.shields.io/badge/Prophet-Meta-blue?style=for-the-badge)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-ARIMA%2FSARIMA-green?style=for-the-badge)
 ![LSTM](https://img.shields.io/badge/LSTM-Deep%20Learning-orange?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-red?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-ML-brightgreen?style=for-the-badge)
 
 **Platforms & Tools**
 
@@ -43,6 +45,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -67,7 +71,7 @@
 - 🚨 **Z-score anomaly detection** flags unusual demand spikes and stockout risks in real time
 - 🤖 **XGBoost & ARIMA** demand forecasting with MAE, RMSE, R², and MAPE benchmarking
 
-[![Open App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://github.com/GIVEN-CHINYAMA/zambia-retail-dashboard-app)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GIVEN-CHINYAMA/zambia-retail-dashboard-app)
 
 ---
 
@@ -79,6 +83,34 @@
 - 🎯 95% service level target — eliminates ~85% of stockout risk
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GIVEN-CHINYAMA/retail-demand-forecasting-inventory-optimization/blob/main/Retail_Demand_Forecasting_%26_Inventory_Optimization_System_%E2%80%94_ML_%2B_Time_Series_Analytics.ipynb)
+
+---
+
+### 👥 [Employee Attrition Prediction — HR Analytics](https://github.com/GIVEN-CHINYAMA/Employee-Attrition-Prediction-HR-Analytics)
+> Machine learning pipeline predicting employee attrition using classification models and SHAP explainability.
+- 🤖 Models benchmarked — Logistic Regression, Random Forest, XGBoost, and more
+- 🔍 **SHAP values** identify the top drivers of employee turnover
+- 📊 Full EDA, feature engineering, and model evaluation pipeline
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GIVEN-CHINYAMA/Employee-Attrition-Prediction-HR-Analytics)
+
+---
+
+### 💳 [Loan Default Prediction](https://github.com/GIVEN-CHINYAMA/loan_default_prediction_ml)
+> Binary classification model predicting loan default risk using real-world financial features.
+- 🤖 Ensemble ML models with precision-recall optimisation for imbalanced classes
+- 📊 Full pipeline — EDA, feature engineering, model training, and evaluation
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GIVEN-CHINYAMA/loan_default_prediction_ml)
+
+---
+
+### ⚡ [Electricity Demand Forecasting](https://github.com/GIVEN-CHINYAMA/electricity-demand-forecasting)
+> Daily electricity demand forecasting across 5,057 observations using ARIMA, SARIMA, Prophet, and LSTM.
+- 🏆 **LSTM** achieved 96.1% forecast accuracy — RMSE: 736 MW, R²: 0.84
+- 📊 23 professional charts generated across an 11-stage pipeline
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GIVEN-CHINYAMA/electricity-demand-forecasting/blob/main/electricity_demand_forecasting.ipynb)
 
 ---
 
@@ -98,7 +130,10 @@
     <img src="https://img.shields.io/badge/GitHub-GIVEN--CHINYAMA-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:givenchinyama@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-givenchinyama%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/given-chinyama">
+    <img src="https://img.shields.io/badge/LinkedIn-given--chinyama-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
