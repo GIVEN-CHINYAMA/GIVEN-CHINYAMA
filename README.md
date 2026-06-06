@@ -126,17 +126,18 @@
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/GIVEN-CHINYAMA">
-    <img src="https://img.shields.io/badge/GitHub-GIVEN--CHINYAMA-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/GIVEN-CHINYAMA?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-GIVEN--CHINYAMA-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:givenchinyama@gmail.com">
     <img src="https://img.shields.io/badge/Email-givenchinyama%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/given-chinyama">
-    <img src="https://img.shields.io/badge/LinkedIn-given--chinyama-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/given-chinyama-data">
+    <img src="https://img.shields.io/badge/LinkedIn-given--chinyama--data-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 *Open to Data Science internships, graduate roles, and research collaborations. Based in Zambia 🇿🇲*
+
